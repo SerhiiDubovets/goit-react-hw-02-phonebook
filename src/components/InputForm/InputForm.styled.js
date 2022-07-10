@@ -6,7 +6,7 @@ margin-bottom: 10px;
    display: flex;
    flex-direction: column;
    align-items: center;
-   background-color: #67a8a24f;
+   background-color: #ffffff4f;
    border: solid 5px #646eab;
    padding: 33px;
    border-radius: 50px;

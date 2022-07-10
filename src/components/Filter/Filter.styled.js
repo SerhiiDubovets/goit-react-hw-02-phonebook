@@ -15,9 +15,10 @@ export const FilterInput = styled.input`
    justify-content: center;
    font-size: 20px;
    margin-left: ${p => (p.name === 'name') ? '25px ': '20px'};
-border: 3px solid #646eab;
-border-radius: 10px;
-background-color: transparent;
+   border: 3px solid #646eab;
+   border-radius: 10px;
+   background-color: transparent;
+   background-color: #ffffff4f;
 :hover,
 :focus{
    border-color: green;
